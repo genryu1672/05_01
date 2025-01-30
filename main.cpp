@@ -1,7 +1,7 @@
 #include <Novice.h>
 #include "Scene.h"
 
-const char kWindowTitle[] = "PG3コマンドパターン";
+const char kWindowTitle[] = "LE2D_10_シマノ_ユウト";
 
 const int kWindowWidth = 1280; // ウィンドウの横幅
 const int kWindowHeight = 720; // ウィンドウの縦幅
